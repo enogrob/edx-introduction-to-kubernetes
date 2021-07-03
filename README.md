@@ -15,20 +15,20 @@ Learn everything you need to about the subject of this `EdX` project.
 
 ## Topics
 
-* [ ] [Welcome!](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@78d9828d5b214e18b3a37c12cceaf3ac)
+* [x] [Welcome!](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@78d9828d5b214e18b3a37c12cceaf3ac)
 Welcome!
 
 Chapter 1. From Monolith to Microservices
-* [ ] [Introduction and Learning Objectives](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@13caf57cc8d448a88e26e36fec502fb0)
-* [ ] [From Monolith to Microservices](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@6f03bfdb00bc43a082f587a6dfd72377)
-* [ ] [Knowledge Check (due Jul 13, 2021, 8:37 PM GMT-3)](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@4ceca5508e3942afa38965c05fc64c95)
-* [ ] [Learning Objectives (Review)](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@b9b38f7bcd994388a9bf5278c2576279)
+* [x] [Introduction and Learning Objectives](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@13caf57cc8d448a88e26e36fec502fb0)
+* [x] [From Monolith to Microservices](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@6f03bfdb00bc43a082f587a6dfd72377)
+* [x] [Knowledge Check (due Jul 13, 2021, 8:37 PM GMT-3)](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@4ceca5508e3942afa38965c05fc64c95)
+* [x] [Learning Objectives (Review)](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@b9b38f7bcd994388a9bf5278c2576279)
 
 Chapter 2. Container Orchestration
-* [ ] [Introduction and Learning Objectives](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@e10a62dcf641474c997eabd0602111cb)
-* [ ] [Container Orchestration](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@c77f2d1b11234afb9886680612041ab2)
-* [ ] [Knowledge Check due Jul 19, 2021, 7:17 AM GMT-3](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@7d16280b45f847a4924156760d9bb140)
-* [ ] [Learning Objectives (Review)](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@49978d8b3a70454097dd48d518e09048)
+* [x] [Introduction and Learning Objectives](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@e10a62dcf641474c997eabd0602111cb)
+* [x] [Container Orchestration](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@c77f2d1b11234afb9886680612041ab2)
+* [x] [Knowledge Check due Jul 19, 2021, 7:17 AM GMT-3](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@7d16280b45f847a4924156760d9bb140)
+* [x] [Learning Objectives (Review)](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@49978d8b3a70454097dd48d518e09048)
 
 Chapter 3. Kubernetes
 * [ ] [Introduction and Learning Objectives](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+3T2020/block-v1:LinuxFoundationX+LFS158x+3T2020+type@sequential+block@dd59e7933e4741a784cdbf6d3ba33ba7)
